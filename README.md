@@ -9,6 +9,7 @@
 `start sBurgershot`
 `start burgershot`
 
+http://prntscr.com/ptvdc2
 https://image.noelshack.com/fichiers/2019/45/4/1573149607-screenshot-3.png
 
 # (EN)
@@ -20,6 +21,7 @@ https://image.noelshack.com/fichiers/2019/45/4/1573149607-screenshot-3.png
 `start sBurgershot`
 `start burgershot`
 
+http://prntscr.com/ptvdc2
 https://image.noelshack.com/fichiers/2019/45/4/1573149607-screenshot-3.png
 
 © Copyright 2019 StarKow
