@@ -9,6 +9,8 @@
 `start sBurgershot`
 `start burgershot`
 
+https://image.noelshack.com/fichiers/2019/45/4/1573149607-screenshot-3.png
+
 # (EN)
 
 # Installation
@@ -17,5 +19,7 @@
 
 `start sBurgershot`
 `start burgershot`
+
+https://image.noelshack.com/fichiers/2019/45/4/1573149607-screenshot-3.png
 
 © Copyright 2019 StarKow
