@@ -4,7 +4,7 @@ RegisterServerEvent('BuyBigmac')
 AddEventHandler('Buy', function(item)
     local _source = source
     local xPlayer  = ESX.GetPlayerFromId(source)
-    If item ~= "Menu" then
+    if item ~= "Menu" then
         local price = Config.Price[item]
         xPlayer.removeMoney(price)
         xPlayer.addInventoryItem(item, 1)
