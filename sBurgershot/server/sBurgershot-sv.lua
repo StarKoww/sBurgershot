@@ -1,6 +1,6 @@
 ESX = nil
 TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
-RegisterServerEvent('BuyBigmac')
+RegisterServerEvent('Buy')
 AddEventHandler('Buy', function(item)
     local _source = source
     local xPlayer  = ESX.GetPlayerFromId(source)
