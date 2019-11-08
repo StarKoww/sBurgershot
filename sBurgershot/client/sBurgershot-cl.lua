@@ -51,7 +51,7 @@ function AddObjectMenu(menu)
 
     bmenu.SubMenu.OnItemSelect = function(menu, item)
         if item == bigmac then
-            TriggerServerEvent("Buy", item)
+            TriggerServerEvent("Buy", "bigmac")
             ESX.ShowAdvancedNotification("~r~BurgerShot", "~g~Préparation...", "", "CHAR_JIMMY_BOSTON", 1)
             Citizen.Wait(5)
             ESX.ShowAdvancedNotification("~r~BurgerShot", "Tien un bon ~g~Hamburger !", "", "CHAR_JIMMY_BOSTON", 1)
@@ -60,7 +60,7 @@ function AddObjectMenu(menu)
     
     cmenu.SubMenu.OnItemSelect = function(menu, item)
         if item == cola then
-            TriggerServerEvent("Buy", item)
+            TriggerServerEvent("Buy", "cola")
             ESX.ShowAdvancedNotification("~r~BurgerShot", "~g~Préparation...", "", "CHAR_JIMMY_BOSTON", 1)
             Citizen.Wait(5)
             ESX.ShowAdvancedNotification("~r~BurgerShot", "Tien un bon ~g~Coca-Cola !", "", "CHAR_JIMMY_BOSTON", 1)
